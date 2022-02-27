@@ -1,0 +1,7 @@
+/home/ubuntu/wasmedge_hostfunctionexample_interface/example/target/debug/deps/wasmedge_yuhostfunctionexample_interface-470a3252fabdea10.rmeta: /home/ubuntu/wasmedge_hostfunctionexample_interface/src/lib.rs
+
+/home/ubuntu/wasmedge_hostfunctionexample_interface/example/target/debug/deps/libwasmedge_yuhostfunctionexample_interface-470a3252fabdea10.rlib: /home/ubuntu/wasmedge_hostfunctionexample_interface/src/lib.rs
+
+/home/ubuntu/wasmedge_hostfunctionexample_interface/example/target/debug/deps/wasmedge_yuhostfunctionexample_interface-470a3252fabdea10.d: /home/ubuntu/wasmedge_hostfunctionexample_interface/src/lib.rs
+
+/home/ubuntu/wasmedge_hostfunctionexample_interface/src/lib.rs:

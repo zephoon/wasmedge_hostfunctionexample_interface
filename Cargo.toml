@@ -1,5 +1,5 @@
 [package]
-name = "wasmedge_hostfunctionexample_interface"
+name = "wasmedge_yuhostfunctionexample_interface"
 version = "1.0.0"
 authors = ["hydai <hydai@secondstate.io>"]
 edition = "2021"
@@ -11,5 +11,5 @@ description = "A Rust library that provides Rust to WebAssembly developers with 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [lib]
-name = "wasmedge_hostfunctionexample_interface"
+name = "wasmedge_yuhostfunctionexample_interface"
 path = "src/lib.rs"

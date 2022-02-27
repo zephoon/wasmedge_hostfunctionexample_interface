@@ -1,4 +1,4 @@
-use wasmedge_hostfunctionexample_interface::*;
+use wasmedge_yuhostfunctionexample_interface::*;
 
 fn main() {
     set_class_id(123);

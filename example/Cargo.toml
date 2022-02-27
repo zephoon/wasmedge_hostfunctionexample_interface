@@ -4,4 +4,4 @@ version = "1.0.0"
 edition = "2021"
 
 [dependencies]
-wasmedge_hostfunctionexample_interface = { version = "*", path = "../" }
+wasmedge_yuhostfunctionexample_interface = { version = "*", path = "../" }
